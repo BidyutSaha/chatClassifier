@@ -1,0 +1,4 @@
+model*
+test/
+train*/
+*.hdf5
